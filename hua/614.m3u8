@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:0
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="https://oadhv.xianjue.xyz/uploads/m3u8/enc.key",IV=0x388275450afce191ed48034f69106d55
+#EXTINF:0.000000,
+https://oadhv.xianjue.xyz/uploads/km3u8/f11/f110fba5d22c95c53d3623450d8681a5/index0.ts
+#EXT-X-ENDLIST
